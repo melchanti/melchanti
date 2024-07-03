@@ -8,8 +8,8 @@ Most recently, I built [![Trellis](https://github.com/Trellis-Deployment/trellis
 
 Some of my hobbies include:
 
+- 🎾: Tennis
 - :skier: Skiing
-- :running_man: Running
 - :weight_lifting: Weight Lifting
 - :swimming_man: Swimming
 - :chess_pawn: Chess
